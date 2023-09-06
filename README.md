@@ -1,4 +1,3 @@
-# hevort_kit
 # HevORT DIY 3D printer basic hardware kit
 
 This kit provides :
@@ -29,16 +28,17 @@ We provide the following :
 <img src="https://i.ibb.co/QmMhKDd/Screenshot-from-2023-08-30-19-20-17.png" alt="HevORT hardware kit 3" border="0"></a>
 
 Here is a detailed BOM list of what we provide :
-[Electronics BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Electronics.xlsx)
-[Enclosure BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Enclosure_AcidBee.xlsx)
-[Frame ElecExt BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Frame_ElecExt.xlsx)
-[XYHD12 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_XYHD12.xlsx)
-[ZR V2.6 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_ZR_V2.6.xlsx)
-[Option HD12 CFx MGN9 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20Option_HD12_CFx_MGN9.xlsx)
-[Option HD12 CFx TopRail MGN9 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20Option_HD12_CFx_TopRail_MGN9.xlsx)
-[HextrudORT Carriage BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_HextrudORT_Carriage_HD12.xlsx)
-[HextrudORT Extruder kit BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_HextrudORT_Extruder_Rapido.xlsx)
-[Extras BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Extras.xlsx)
+
+ - [Electronics BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Electronics.xlsx)
+ - [Enclosure BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Enclosure_AcidBee.xlsx)
+ - [Frame ElecExt BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Frame_ElecExt.xlsx)
+ - [XYHD12 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_XYHD12.xlsx)
+ - [ZR V2.6 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_ZR_V2.6.xlsx)
+ - [Option HD12 CFx MGN9 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20Option_HD12_CFx_MGN9.xlsx)
+ - [Option HD12 CFx TopRail MGN9 BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20Option_HD12_CFx_TopRail_MGN9.xlsx)
+ - [HextrudORT Carriage BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_HextrudORT_Carriage_HD12.xlsx)
+ - [HextrudORT Extruder kit BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_HextrudORT_Extruder_Rapido.xlsx)
+ - [Extras BOM](https://github.com/flatmax/hevort_kit/raw/main/kit%20BOM_Extras.xlsx)
 
 <img src="https://i.ibb.co/jgP32C9/Screenshot-from-2023-08-30-19-21-44.png" alt="HevORT hardware kit 2" border="0"></a>
 
