@@ -8,6 +8,8 @@ This kit provides :
  - hardware for the HextrudORT printhead with some hotend hardware kitting
  - some of the electronics required for the HevORT
 
+[Available for purhcase here](https://www.aliexpress.com/item/1005005994162668.html)
+
 The images on this page show you what is included in our basic hardware hit.
 
 <img src="https://i.ibb.co/HxBWwpB/Screenshot-from-2023-08-30-19-19-21.png" alt="HevORT hardware kit 5" border="0"></a>
