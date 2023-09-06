@@ -14,7 +14,7 @@ The images on this page show you what is included in our basic hardware hit.
 
 <img src="https://i.ibb.co/HxBWwpB/Screenshot-from-2023-08-30-19-19-21.png" alt="HevORT hardware kit 5" border="0"></a>
 
-As a form of positive feedback, once you receive your kits and we receive the money, we will donate 5% of sales to the Hevort paypal account.
+As a form of positive feedback, once you receive your kits and we receive the money, we will donate 5% of sales to the HevORT paypal account.
 
 <img src="https://i.ibb.co/9rfjSTQ/Screenshot-from-2023-08-30-19-19-53.png" alt="HevORT hardware kit 4" border="0"></a>
 
